@@ -12,7 +12,7 @@ Hi 👋 My name is Semal Shastri
      Welcome to my data playground on GitHub! I'm an aspiring data scientist with an insatiable curiosity for all things data, a growing fascination with the enchanting world of machine learning, and a deep love for gaming, movies, and TV shows.
 
 ## About Me
-🎓 I'm currently a graduate student at Georgian College, focusing on Artificial Intelligence Design and Implementation. My academic journey is driven by a deep passion for harnessing the power of AI to shape the future.
+🎓 I'm currently a graduate student at University Of Western Ontario, specializing in Artificial Intelligence. My academic journey is driven by a deep passion for harnessing the power of AI to shape the future.
 💻 I bring a background as a former full stack developer, where I honed my software design skills and collaborated with clients to deliver efficient solutions.
 🤝 As an experienced collaborator, I closely worked with clients to understand their requirements and analyze their needs, resulting in optimal solutions delivered on time and within budget.
 
